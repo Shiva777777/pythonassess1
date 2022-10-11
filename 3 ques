@@ -1,0 +1,7 @@
+import random
+import string
+
+str = "pentafox"[::-1]
+A = random.choice(string.ascii_letters)
+print(A + str)
+
