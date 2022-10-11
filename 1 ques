@@ -1,1 +1,5 @@
+d = int(input("Enter the number of rounds:"))
+r = 7
+total = d * r
+print(str(total),"kms traveled")
 
